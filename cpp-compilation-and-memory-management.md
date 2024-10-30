@@ -44,8 +44,7 @@ https://sourceware.org/gdb/download/onlinedocs/gdb.pdf
 
 <img src="images\stack.PNG" alt="stack" style="zoom:38%;" />
 
-栈溢出:
-一般情况操作系统为每个进程会固定栈空间的大小：
+栈溢出: 一般情况操作系统为每个进程会固定栈空间的大小
 
 ```c++
 $ ulimit -s 
